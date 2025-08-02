@@ -1,0 +1,19 @@
+{
+  "name": "aiml-portfolio",
+  "version": "1.0.0",
+  "description": "Narrative-driven AI/ML portfolio for Sushantmani Tripathi",
+  "private": true,
+  "homepage": "https://SushantmaniTripathi.github.io/AIML-Portfolio",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.11.0",
+    "gh-pages": "^6.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
