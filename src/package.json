@@ -1,0 +1,14 @@
+{
+  "name": "aiml-portfolio",
+  "version": "1.0.0",
+  "description": "Narrative-driven AI/ML portfolio for Sushantmani Tripathi",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-icons": "^4.11.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
