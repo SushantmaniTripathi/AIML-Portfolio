@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AIML-Portfolio/static/css/main.7ddeec3e.css",
+    "main.js": "/AIML-Portfolio/static/js/main.da71b29b.js",
+    "index.html": "/AIML-Portfolio/index.html",
+    "main.7ddeec3e.css.map": "/AIML-Portfolio/static/css/main.7ddeec3e.css.map",
+    "main.da71b29b.js.map": "/AIML-Portfolio/static/js/main.da71b29b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ddeec3e.css",
+    "static/js/main.da71b29b.js"
+  ]
+}
