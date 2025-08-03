@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/AIML-Portfolio/static/css/main.7ddeec3e.css",
-    "main.js": "/AIML-Portfolio/static/js/main.da71b29b.js",
+    "main.css": "/AIML-Portfolio/static/css/main.414935bb.css",
+    "main.js": "/AIML-Portfolio/static/js/main.4c0b21be.js",
     "index.html": "/AIML-Portfolio/index.html",
-    "main.7ddeec3e.css.map": "/AIML-Portfolio/static/css/main.7ddeec3e.css.map",
-    "main.da71b29b.js.map": "/AIML-Portfolio/static/js/main.da71b29b.js.map"
+    "main.414935bb.css.map": "/AIML-Portfolio/static/css/main.414935bb.css.map",
+    "main.4c0b21be.js.map": "/AIML-Portfolio/static/js/main.4c0b21be.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ddeec3e.css",
-    "static/js/main.da71b29b.js"
+    "static/css/main.414935bb.css",
+    "static/js/main.4c0b21be.js"
   ]
 }
