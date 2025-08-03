@@ -1,7 +1,7 @@
 const skills = [
-  "Python", "PyTorch", "TensorFlow", "Scikit-learn", "Docker",
-  "Streamlit", "Gradio", "Flask", "Git & GitHub",
-  "Cloud (AWS/GCP)", "MLOps", "Data Visualization",
-  "SQL", "Pandas", "Numpy", "Open Source"
+  "Python", "TensorFlow", "PyTorch", "scikit-learn", "LangChain", "GPT-4 API",
+  "Streamlit", "Flask", "MySQL", "Pandas", "Power BI", "Git", "Linux", "REST API",
+  "Data Visualization", "Machine Learning", "Deep Learning", "NLP", "Generative AI"
 ];
+
 export default skills;
